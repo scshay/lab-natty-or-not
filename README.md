@@ -6,7 +6,6 @@
 **Objetivo:** Explicar como funciona para gerar músicas criadas utilizando inteligência artificial (IA) em um canal no YouTube, explorar as possibilidades dessa tecnologia na criação musical e ponderar o porquê de tal prática pode ser rentável.
 
 
-
 ## 🤖 Tecnologias Utilizadas
 
 * **IA Generativa:**
@@ -17,7 +16,6 @@
     * **YouTube:** Plataforma para publicação dos vídeos com as músicas.
     * **Audacity:** Software de edição de áudio para finalização das músicas.
     * **Canva:** Ferramenta de design gráfico para criação de capas e thumbnails dos vídeos.
-
 
 
 ## 🧐 Processo de Criação
@@ -41,7 +39,6 @@
 * Playlists foram criadas para organizar as músicas por gênero, estilo e outros critérios.
 
 
-
 ##  🚀 Resultados
 Aqui temos por objetivo mostrar um case real de criação desse tipo de contéudo, que NÃO UTILIZOU NECESSARIAMENTE O PASSO-A-PASSO supracitado, mas pode ser a sua "referência de mercado". 
 
@@ -53,7 +50,6 @@ Aqui temos por objetivo mostrar um case real de criação desse tipo de contéud
 * [Reggae Chill Room 🌴 AI-generated Music for a Peaceful Mind and Soul 🧘‍♂️ [relax / study / code] ---> 113 mil visualizações] (https://www.youtube.com/watch?v=WSnf84IYrZ8)
 * [Chill Beats for Productivity 🎧 AI-Generated Music to Keep You Focused & Relaxed 🧘‍♀️ [calm beats] ---> 10 mil visualizações] (https://www.youtube.com/watch?v=wNhPhrs4kmI)
 * [Find Your Zen 🌸 Electronic Escape 🎶 [chillstep dubstep drums for study / coding / work / relax] ---> 1,5 mil visualizações] (https://www.youtube.com/watch?v=T_ePGB0_rNo)
-
 
 **Aprendizados:**
 * A criação de músicas com IA é um processo criativo e inovador que permite explorar novas possibilidades musicais.
