@@ -3,7 +3,7 @@
 ## 📒 Descrição
 **Projeto:** Canal de Música com Músicas Feitas por IA
 
-**Objetivo:** Explicar como funciona para gerar músicas criadas utilizando inteligência artificial (IA) em um canal no YouTube, explorar as possibilidades dessa tecnologia na criação musical e ponderar o porquê de tal prática pode ser rentável.
+**Objetivo:** Explicar como funciona para gerar músicas criadas utilizando inteligência artificial (IA) em um canal no YouTube e explorar as possibilidades dessa tecnologia na criação musical.
 
 
 ## 🤖 Tecnologias Utilizadas
