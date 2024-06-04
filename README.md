@@ -2,10 +2,12 @@
 
 ## 📒 Descrição
 **Projeto:** Canal de Música com Músicas Feitas por IA
+
 **Objetivo:** Explicar como funciona para gerar músicas criadas utilizando inteligência artificial (IA) em um canal no YouTube, explorar as possibilidades dessa tecnologia na criação musical e ponderar o porquê de tal prática pode ser rentável.
 
 
 ## 🤖 Tecnologias Utilizadas
+
 * **IA Generativa:**
     * **Mubert:** Uma plataforma de IA que permite criar músicas em diversos gêneros e estilos, com diferentes instrumentos e efeitos.
     * **Amper:** Uma IA que pode compor e produzir músicas completas, com melodias, harmonias, letra e ritmo.
@@ -17,6 +19,7 @@
 
 
 ## 🧐 Processo de Criação
+
 **1. Escolha da IA Generativa:**
 * Para cada música, a IA generativa mais adequada foi escolhida com base no gênero musical desejado, estilo e características da música.
 * Mubert foi utilizada para músicas em gêneros pop, eletrônica e rock.
